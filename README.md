@@ -2,7 +2,7 @@
 ###  I’m interested in FullStack Web Development.<br> I’m currently pursuing M.C.A. in Alagappa University and my Bachelor's Degree is Mathematics.
 ### How to reach me:
 <a  href="https://wa.me/qr/6H47CEDIZGB5K1" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a  href="http://santhoshkumar.cooo.in/" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a  href="https://myportfolio-jet-pi.vercel.app" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/santhoshkumar1504/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a  href="https://www.instagram.com/im_santhosh_15" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <hr>
