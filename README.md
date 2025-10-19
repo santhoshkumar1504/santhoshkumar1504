@@ -1,12 +1,17 @@
 # 👋 Hi, I’m Santhoshkumar  
 
-I’m interested in **Full Stack Web Development**.  
-I’m currently pursuing **M.C.A. at Alagappa University** and my **Bachelor's Degree is in Mathematics**.  
+🎓 I’m currently pursuing **M.C.A. at Alagappa University**, with a **Bachelor's degree in Mathematics**.  
+💻 Passionate about **Full Stack Web Development** — from crafting clean frontends to building robust backend systems.
 
 ## 🚀 About Me
-💼 Intern at **Visual Career Solution Private Limited** – gaining hands-on experience in **Web Development** and **IT Operations**.  
-🌟 Aspiring **Full Stack Web Developer** passionate about building **user-friendly, dynamic websites and applications**.  
 
+- 💼 **Intern** at [Visual Career Solution Private Limited](#)  
+  Gaining hands-on experience in **Web Development** and **IT Operations**.
+
+- 🌟 Aspiring **Full Stack Web Developer**  
+  Focused on building **user-friendly**, **responsive**, and **dynamic** web applications.
+
+- 🧠 Always learning new technologies and improving my problem-solving skills.
 
 ##  How to reach me:
 <a  href="https://wa.me/qr/6H47CEDIZGB5K1" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
