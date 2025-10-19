@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Intern** at [Visual Career Solution Private Limited]
+- 💼 **Intern** at *Visual Career Solution Private Limited*
   Gaining hands-on experience in **Web Development** and **IT Operations**.
 
 - 🌟 Aspiring **Full Stack Web Developer**  
